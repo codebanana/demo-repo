@@ -1,3 +1,3 @@
 FROM ubuntu
 
-echo 'lolol'
+CMD echo lolol
